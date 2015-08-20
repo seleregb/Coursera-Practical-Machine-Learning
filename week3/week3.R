@@ -72,6 +72,7 @@ missClass(testSA$chd, predictTest) # 0.3116883
 
 # Problem 5.
 library(ElemStatLearn)
+library(randomForest)
 data(vowel.train)
 data(vowel.test)
 head(vowel.train)
